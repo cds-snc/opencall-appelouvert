@@ -99,6 +99,9 @@ html {
 img {
   border-style: solid;
 }
+figcaption {
+  padding-top: 10px
+}
 textarea {
   resize: vertical;
 }
