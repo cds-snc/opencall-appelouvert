@@ -1,5 +1,6 @@
 import React from 'react';
-import { GCHeader, GCFooter } from 'gc-tortilla';
+import { GCFooter } from 'gc-tortilla';
+import Header from './components/Header';
 import BannerBlock from './components/BannerBlock';
 import codeShare from './images/codeShare.png';
 import clipboard from './images/clipboard.png';
@@ -9,7 +10,7 @@ export default function Home(props) {
 
     return (
         <div className="App">
-            <GCHeader/>
+            <Header t={props.t}/>
                 <BannerBlock
                     markdown={props.markdown.HelpingGovernmentsRespond}
                     image={{

@@ -1,0 +1,64 @@
+.header .content {
+    display: flex;
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.header .gocHeaderLogo {
+    width: 250px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+
+.header .titleBox {
+    display: flex;
+}
+
+.header h1 {
+    font-size: 26px;
+    margin: 0;
+}
+
+.header .alpha {
+    background-color: #b2e3ff;
+    font-size: 16px;
+    margin: 5px 12px;
+    padding: 3px 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.header .languageToggle {
+    flex: 1;
+    text-align: end;
+    align-self: center;
+    color: #26374a;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .header .content {
+        flex-direction: column;
+        padding: 15px 25px;
+    }
+
+    .header .gocHeaderLogo {
+        order: 1;
+    }
+
+    .header .titleBox {
+        margin-top: 25px;
+        margin-bottom: 12px;
+        order: 1;
+    }
+
+    .header .languageToggle {
+        align-self: start;
+        margin-bottom: 25px;
+    }
+
+}

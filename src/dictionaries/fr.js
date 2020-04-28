@@ -1,4 +1,5 @@
 export default {
+    "getOppositeLocale": "en",
     "getOppositeLang": "English",
     "Open Call": "Appel ouvert",
     "Alpha": "Alpha",

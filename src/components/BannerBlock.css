@@ -5,7 +5,8 @@
 .bannerBlock .content {
     display: flex;
     justify-content: center;
-    max-width: 90%;
+    width: 90%;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -30,7 +31,7 @@
 @media only screen and (max-width: 1000px) {
 
     .bannerBlock {
-        padding: 1rem 25px;
+        padding: 1rem 15px;
     }
 
     .bannerBlock img {
