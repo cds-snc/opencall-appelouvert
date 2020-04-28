@@ -1,0 +1,39 @@
+.bannerBlock {
+    padding: 3rem 130px;
+}
+
+.bannerBlock .content {
+    display: flex;
+    justify-content: center;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.bannerBlock img {
+    width: 350px;
+    margin-left: 25px;
+    object-fit: contain;
+}
+
+.bannerBlock .markdown h1{
+    font-size: 36px;
+}
+
+.bannerBlock .markdown p{
+    font-size: 20px;
+}
+
+.bannerBlock .markdown a{
+    color: inherit;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .bannerBlock {
+        padding: 1rem 25px;
+    }
+
+    .bannerBlock img {
+        display: none;
+    }
+}
