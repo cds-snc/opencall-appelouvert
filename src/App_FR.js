@@ -1,5 +1,6 @@
 import React from 'react';
 import Home from './Home';
+import About from './About';
 import dictionary from './dictionaries/fr';
 import './App.css';
 
@@ -8,7 +9,19 @@ import HelpingGovernmentsRespond from './markdown/fr/HelpingGovernmentsRespond.m
 import HereToHelp from './markdown/fr/HereToHelp.md';
 import OpenCallCommunity from './markdown/fr/OpenCallCommunity.md';
 
-export default function App() {
+export default function App(props) {
+
+    if (props.aboutPage){
+        return (
+            <About
+                lang="fr"
+                t={dictionary}
+                markdown={{
+                    OpenCallCommunity
+                }}
+            />
+        );    
+    }
 
     return (
         <Home

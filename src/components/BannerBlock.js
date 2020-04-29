@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
+import {getMarkdown} from '../helpers';
 import './BannerBlock.css';
 
 export default function BannerBlock(props) {
@@ -7,9 +8,7 @@ export default function BannerBlock(props) {
     const [markdown, setMarkdown] = useState(null);
 
     useEffect(() => {
-        fetch(props.markdown).then((response) => response.text()).then((string) => {
-            setMarkdown(string);
-        });
+        getMarkdown(props.markdown, setMarkdown);
     },[])
 
     return (
