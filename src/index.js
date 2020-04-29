@@ -6,13 +6,6 @@ import App_EN from './App_EN';
 import App_FR from './App_FR';
 import * as serviceWorker from './serviceWorker';
 
-// ReactDOM.render(
-//     <React.StrictMode>
-//     {document.documentElement.lang === "en" ? <App_EN/> : <App_FR/>}
-//     </React.StrictMode>,
-//     document.getElementById('root')
-// );
-
 if (document.documentElement.lang === "fr"){
     ReactDOM.render(
         <React.StrictMode>

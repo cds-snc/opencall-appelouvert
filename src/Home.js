@@ -2,6 +2,7 @@ import React from 'react';
 import { GCFooter } from 'gc-tortilla';
 import Header from './components/Header';
 import BannerBlock from './components/BannerBlock';
+import Catalog from './components/Catalog';
 import codeShare from './images/codeShare.png';
 import clipboard from './images/clipboard.png';
 import gocFooterLogo from './images/gocFooterLogo.png';
@@ -33,7 +34,7 @@ export default function Home(props) {
                         </a>
                     </div>
                 </BannerBlock>
-                <h2>{props.t["Open Call Catalogue"]}</h2>
+                <Catalog t={props.t}/>
                 <BannerBlock
                     markdown={props.markdown.HereToHelp}
                     image={{
