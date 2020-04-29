@@ -8,15 +8,16 @@ import './App.css';
 import HelpingGovernmentsRespond from './markdown/fr/HelpingGovernmentsRespond.md';
 import HereToHelp from './markdown/fr/HereToHelp.md';
 import OpenCallCommunity from './markdown/fr/OpenCallCommunity.md';
+import AboutPage from './markdown/fr/AboutPage.md';
 
 export default function App(props) {
 
     if (props.aboutPage){
         return (
             <About
-                lang="fr"
                 t={dictionary}
                 markdown={{
+                    AboutPage,
                     OpenCallCommunity
                 }}
             />
@@ -25,7 +26,6 @@ export default function App(props) {
 
     return (
         <Home
-            lang="fr"
             t={dictionary}
             markdown={{
                 HelpingGovernmentsRespond,

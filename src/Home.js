@@ -5,11 +5,16 @@ import BannerBlock from './components/BannerBlock';
 import codeShare from './images/codeShare.png';
 import clipboard from './images/clipboard.png';
 import gocFooterLogo from './images/gocFooterLogo.png';
+import './Home.css';
 
 export default function Home(props) {
 
+    function getAboutLink() {
+        return props.t.getLocale != "en" ? `/${props.t.getLocale}/#/about` : "/#/about";
+    }
+
     return (
-        <div className="App">
+        <div className="home">
             <Header t={props.t}/>
                 <BannerBlock
                     markdown={props.markdown.HelpingGovernmentsRespond}
@@ -21,7 +26,13 @@ export default function Home(props) {
                         backgroundColor: "#26374a",
                         color: "white"
                     }}
-                />
+                >
+                    <div className="aboutButton">
+                        <a href={getAboutLink()}>
+                            <p>{props.t["Learn more"]}</p>
+                        </a>
+                    </div>
+                </BannerBlock>
                 <h2>{props.t["Open Call Catalogue"]}</h2>
                 <BannerBlock
                     markdown={props.markdown.HereToHelp}

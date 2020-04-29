@@ -15,7 +15,6 @@ export default function App(props) {
     if (props.aboutPage){
         return (
             <About
-                lang="en"
                 t={dictionary}
                 markdown={{
                     AboutPage,
@@ -27,7 +26,6 @@ export default function App(props) {
 
     return (
         <Home
-            lang="en"
             t={dictionary}
             markdown={{
                 HelpingGovernmentsRespond,

@@ -1,4 +1,5 @@
 export default {
+    "getLocale": "en",
     "getOppositeLocale": "fr",
     "getOppositeLang": "Français",
     "Open Call": "Open Call",
