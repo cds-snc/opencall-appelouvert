@@ -54,6 +54,7 @@
 
     .header .gocHeaderLogo {
         order: 1;
+        align-self: start;
     }
 
     .header .titleBox {

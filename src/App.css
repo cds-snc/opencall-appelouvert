@@ -20,6 +20,10 @@ a {
     color: inherit;
 }
 
+figcaption {
+    font-size: 0.625rem;
+}
+
 .markdown, .contentBox {
     width: 90%;
     max-width: 1000px;

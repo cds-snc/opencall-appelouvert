@@ -10,6 +10,7 @@
 
 .catalog .resource {
     width: 30%;
+    margin: 15px 0;
 }
 
 .catalog img {
@@ -20,7 +21,24 @@
     box-sizing: border-box;
 }
 
+.catalog figcaption {
+    margin-top: 10px;
+}
+
 .catalog p {
     font-size: 1rem;
     overflow-wrap: break-word;
+}
+
+@media only screen and (max-width: 750px) {
+
+    .catalog .collection {
+        justify-content: center;
+    }
+
+    .catalog .resource {
+        width: auto;
+        max-width: 300px;
+    }
+
 }

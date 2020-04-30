@@ -35,6 +35,7 @@ export default function Catalog(props) {
                         {resourceType.resources.map(resource =>
                             <div className="resource">
                                 <img src={resource.gsx$imageurl.$t} alt={resource.gsx$alttxt.$t}/>
+                                {resource.gsx$frenchcaptions ? <figcaption>{resource.gsx$frenchcaptions.$t}</figcaption> : undefined}
                                 <h4>{resource.title.$t}</h4>
                                 <p>
                                     <b>{props.t["Live link:"] + " "}</b>
