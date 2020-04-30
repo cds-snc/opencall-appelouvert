@@ -1,0 +1,26 @@
+.catalog .title {
+    text-align: center;
+}
+
+.catalog .collection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.catalog .resource {
+    width: 30%;
+}
+
+.catalog img {
+    max-width: 100%;
+    border: 2px solid gray;
+    padding: 10px;
+    border-bottom-left-radius: 25px;
+    box-sizing: border-box;
+}
+
+.catalog p {
+    font-size: 1rem;
+    overflow-wrap: break-word;
+}
