@@ -102,6 +102,10 @@ img {
 textarea {
   resize: vertical;
 }
+
+figcaption {
+  padding-top: 10px;
+}
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
   color: #a0aec0;
