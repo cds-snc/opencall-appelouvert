@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp build/index.html build/fr/index.html && sed -i '' 's/<html lang=\"en\">/<html lang=\"fr\">/g' build/fr/index.html",
+    "build": "react-scripts build && node buildScripts/customBuild.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
