@@ -42,7 +42,7 @@ export default function Catalog(props) {
                                 </p>
                                 <p>
                                     <b>{props.t["Open source code:"] + " "}</b>
-                                    <a href={resource.gsx$codelink.$t}>{resource.gsx$codelink.$t}</a>
+                                    <a href={resource.gsx$codelink.$t}>{resource.gsx$codelinktitle.$t}</a>
                                 </p>
                             </div>
                         )}
