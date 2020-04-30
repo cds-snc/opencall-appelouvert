@@ -32,6 +32,10 @@
 
 @media only screen and (max-width: 750px) {
 
+    .catalog .resourceType {
+        text-align: center;
+    }
+
     .catalog .collection {
         justify-content: center;
     }

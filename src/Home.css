@@ -13,3 +13,11 @@
 .home .aboutButton p {
     margin: 0;
 }
+
+@media only screen and (max-width: 1000px) {
+
+    .home .aboutButton {
+        margin-bottom: 15px;
+    }
+
+}

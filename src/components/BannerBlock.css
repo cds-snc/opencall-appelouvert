@@ -20,7 +20,11 @@
 @media only screen and (max-width: 1000px) {
 
     .bannerBlock {
-        padding: 1rem 15px;
+        padding: 1rem 0;
+    }
+
+    .bannerBlock .content {
+        width: 95%;
     }
 
     .bannerBlock img {

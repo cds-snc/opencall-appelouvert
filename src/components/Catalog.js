@@ -30,7 +30,7 @@ export default function Catalog(props) {
             <h2 className="title">{props.t["Open Call Catalogue"]}</h2>
             {resources.map(resourceType =>
                 <div className="contentBox">
-                    <h3>{resourceType.type}</h3>
+                    <h3 className="resourceType">{resourceType.type}</h3>
                     <div className="collection">
                         {resourceType.resources.map(resource =>
                             <div className="resource">
