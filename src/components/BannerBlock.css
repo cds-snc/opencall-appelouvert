@@ -14,6 +14,7 @@
     width: 350px;
     margin-left: 25px;
     object-fit: contain;
+    align-self: center;
 }
 
 @media only screen and (max-width: 1000px) {
