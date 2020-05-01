@@ -1,0 +1,48 @@
+.catalog .title {
+    text-align: center;
+}
+
+.catalog .collection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.catalog .resource {
+    width: 30%;
+    margin: 15px 0;
+}
+
+.catalog img {
+    max-width: 100%;
+    border: 2px solid gray;
+    padding: 10px;
+    border-bottom-left-radius: 25px;
+    box-sizing: border-box;
+}
+
+.catalog figcaption {
+    margin-top: 10px;
+}
+
+.catalog p {
+    font-size: 1rem;
+    overflow-wrap: break-word;
+}
+
+@media only screen and (max-width: 750px) {
+
+    .catalog .resourceType {
+        text-align: center;
+    }
+
+    .catalog .collection {
+        justify-content: center;
+    }
+
+    .catalog .resource {
+        width: auto;
+        max-width: 300px;
+    }
+
+}

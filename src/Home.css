@@ -1,0 +1,23 @@
+.home .aboutButton {
+    background-color: #b2e3ff;
+    color: black;
+    width: auto;
+    display: inline-block;
+    padding: 10px 12px;
+}
+
+.home .aboutButton a {
+    text-decoration: none;
+}
+
+.home .aboutButton p {
+    margin: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .home .aboutButton {
+        margin-bottom: 15px;
+    }
+
+}

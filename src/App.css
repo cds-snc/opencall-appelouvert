@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-size: 2.25rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+li {
+    font-size: 1.25rem;
+}
+
+a {
+    color: inherit;
+}
+
+figcaption {
+    font-size: 0.625rem;
+}
+
+.markdown, .contentBox {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}

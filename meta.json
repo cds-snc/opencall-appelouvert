@@ -1,0 +1,16 @@
+{
+    "en": {
+        "lang": "en",
+        "title": "Open Call - Alpha",
+        "description": "Open Call is a curated catalogue of free, open source tools to help teams from all levels of government serve residents during COVID-19.",
+        "url": "https://opencall-appelouvert.alpha.canada.ca",
+        "image": "thumbnail.png"
+    },
+    "fr": {
+        "lang": "fr",
+        "title": "Appel ouvert",
+        "description": "Appel ouvert est un catalogue d’outils à code source libre gratuits et conçus pour aider les équipes de toute administration publique à servir les résidents pendant la pandémie de la COVID-19.",
+        "url": "https://opencall-appelouvert.alpha.canada.ca/fr/",
+        "image": "thumbnail_fr.png"
+    }
+}
