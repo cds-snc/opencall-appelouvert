@@ -6,16 +6,16 @@ import BannerBlock from './components/BannerBlock';
 import {getMarkdown} from './helpers';
 import gocFooterLogo from './images/gocFooterLogo.png';
 
-export default function About(props) {
+export default function MarkdownPage(props) {
 
     const [markdown, setMarkdown] = useState(null);
 
     useEffect(() => {
-        getMarkdown(props.markdown.AboutPage, setMarkdown);
+        getMarkdown(props.markdown.pageContent, setMarkdown);
     },[])
 
     return (
-        <div className="About">
+        <div className="markdownPage">
             <Header t={props.t}/>
             <ReactMarkdown className="markdown" source={markdown}/>
             <BannerBlock

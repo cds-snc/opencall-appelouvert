@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './Home';
-import About from './About';
+import MarkdownPage from './MarkdownPage';
 import dictionary from './dictionaries/fr';
 import './App.css';
 
@@ -9,15 +9,28 @@ import HelpingGovernmentsRespond from './markdown/fr/HelpingGovernmentsRespond.m
 import HereToHelp from './markdown/fr/HereToHelp.md';
 import OpenCallCommunity from './markdown/fr/OpenCallCommunity.md';
 import AboutPage from './markdown/fr/AboutPage.md';
+import HowWeVetProjects from './markdown/fr/HowWeVetProjects.md';
 
 export default function App(props) {
 
     if (props.aboutPage){
         return (
-            <About
+            <MarkdownPage
                 t={dictionary}
                 markdown={{
-                    AboutPage,
+                    pageContent: AboutPage,
+                    OpenCallCommunity
+                }}
+            />
+        );    
+    }
+
+    if (props.vetGuidePage){
+        return (
+            <MarkdownPage
+                t={dictionary}
+                markdown={{
+                    pageContent: HowWeVetProjects,
                     OpenCallCommunity
                 }}
             />
