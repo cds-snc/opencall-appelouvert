@@ -23,4 +23,4 @@ The Open Call catalogue is growing every day, and contains tools to help you:
 * Recruit volunteers with digital or IT skills to help address COVID-19-related issues
 
 ## We’re here to help
-If coding isn’t your area of expertise, if you’re unsure what kind of resource you need, which of the listings is most relevant, or simply need more support, [fill out our intake form.](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform)
+If coding isn’t your area of expertise, if you’re unsure what kind of resource you need, which of the listings is most relevant, or simply need more support, [fill out our support request form.](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform)
