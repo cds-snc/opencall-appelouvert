@@ -10,6 +10,7 @@ import HereToHelp from './markdown/en/HereToHelp.md';
 import OpenCallCommunity from './markdown/en/OpenCallCommunity.md';
 import AboutPage from './markdown/en/AboutPage.md';
 import HowWeVetProjects from './markdown/en/HowWeVetProjects.md';
+import FAQs from './markdown/en/FAQs.md';
 
 export default function App(props) {
 
@@ -31,6 +32,18 @@ export default function App(props) {
                 t={dictionary}
                 markdown={{
                     pageContent: HowWeVetProjects,
+                    OpenCallCommunity
+                }}
+            />
+        );    
+    }
+
+    if (props.FAQsPage){
+        return (
+            <MarkdownPage
+                t={dictionary}
+                markdown={{
+                    pageContent: FAQs,
                     OpenCallCommunity
                 }}
             />

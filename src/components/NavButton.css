@@ -6,6 +6,10 @@
     padding: 10px 12px;
 }
 
+div .navButton:nth-of-type(n + 2){
+    margin-left: 10px;
+}
+
 .navButton a {
     text-decoration: none;
 }

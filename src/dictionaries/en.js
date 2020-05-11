@@ -7,6 +7,7 @@ export default {
     "Alpha": "Alpha",
     "Learn more": "Learn more",
     "Vetting process": "Vetting process",
+    "FAQs": "FAQs",
     "Open Call Catalogue": "Open Call Catalogue",
     "Live link:": "Live link:",
     "Open source code:": "Open source code:",

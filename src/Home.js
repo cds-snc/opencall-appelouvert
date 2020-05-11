@@ -39,6 +39,7 @@ export default function Home(props) {
                     }}
                 >
                     <NavButton t={props.t} text="Vetting process" path="how-we-vet-projects"/>
+                    <NavButton t={props.t} text="FAQs" path="faqs"/>
                 </BannerBlock>
                 <BannerBlock
                     markdown={props.markdown.OpenCallCommunity}
