@@ -1,33 +1,26 @@
 ## About Open Call
 
-## An open source catalogue to help governments respond to COVID-19
-Managers, product owners and analysts at all levels of government need reliable self-assessment tools, clear data visualizations, or contact tracing capabilities during a time like this, but we need not start from scratch.
+## Building reusable tools for communities, together
+Managers, product owners and analysts at all levels of government need reliable self-assessment tools, clear data visualizations, or contact tracing capabilities during COVID-19, but we need not start from scratch. Open Call can help you get services and information to constituents faster.
 
-## Open Call is responsive to need
-Through informal consultation, we’ve learned that teams across government are working on the same types of projects to inform the public as well as themselves, to enable informed decision-making.
+Open Call's catalogue includes free, open source tools being used by governments in Canada - and worldwide - to respond to COVID-19. No external procurement is needed to activate the service, meaning it’s free for the Canadian public service, regardless of jurisdiction.
 
-## Open Call is built by developers and vetted by government
-Stand on the shoulders of developers who have already made these tools and are sharing the code so your jurisdiction can offer the same service, faster.
+## Free and efficient service delivery
+Governments across Canada are working on the same problems: how to keep people informed about recovery efforts, track cases, provide live stats and empower residents to self-assess symptoms or understand benefit eligibility. Open Call curates successful solutions to these challenges, and makes them freely available to government teams. 
+
+## Trusted services already being used by other governments
+Our vetting process ensures our collection only features live products actively in use by other jurisdictions. 
 
 ## What you can do with Open Call
-* Release a contact tracing app
+Search the catalogue to find the resource that best suits your needs and start using it to build your desired platform or service, or fill out our [support request form](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and let us match your need with the right resource.
+
+The Open Call catalogue is growing every day, and contains tools to help you:
+* Communicate securely with residents during, and after, the pandemic
 * Create data visualizations to show cases, testing rates and case locations
-* Help your constituents take a self-assessment for symptoms of COVID-19
+* Help your constituents take a self-assessment for symptoms of COVID-19 and take pressure off your local healthcare system
 * Launch a chatbot to answer common COVID-19 questions
+* Release a contact tracing app for your community
 * Recruit volunteers with digital or IT skills to help address COVID-19-related issues
-
-## Why Open Source?
-Open source is software code made available for others to view, copy, and modify. Using open source provides transparency on our work, makes collaborating easier, and generates software that’s easier to reuse and tailor to different government initiatives.
-
-**Learn more about open source**
-* [Why open source matters](https://digital.canada.ca/2020/02/24/why-open-source-matters/), a blog post by CDS, outlines the benefits of open code and addresses FAQs.
-* See how [Notify](https://digital.canada.ca/2019/11/26/introducing-notify/), an open source tool, helped ease citizens’ concerns by keeping them informed.
 
 ## We’re here to help
 If coding isn’t your area of expertise, if you’re unsure what kind of resource you need, which of the listings is most relevant, or simply need more support, [fill out our intake form.](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform)
-
-Open Call includes free, open source tools being used by governments in Canada - and worldwide - to respond to COVID-19. No external procurement is needed to activate the service, meaning it’s free for the Canadian public service, regardless of jurisdiction.
-
-## You can use Open Call in one of two ways:
-* Search the catalog to find the resource that best suits your needs and start using it to build your desired platform or service; or
-* Let us match your need with the right resource using the [intake form.](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform)
