@@ -1,5 +1,5 @@
-# We’re here to help
+# Pro bono tech support for your team
 
-If coding isn’t your area of expertise, if you’re unsure what kind of resource you need, which of the listings is most relevant, or simply need more support, fill out our [support request form](https://forms.gle/Q7PiKNZ1tapidJuP9).
+Not a coder? No problem! Not sure what kind of resource you need, or which listing is best for you? Open Call can provide coaching, training or hands-on development support to help you launch a new service.
 
-We look forward to hearing from you and will respond promptly.
+Just fill out our [support request form](https://forms.gle/Q7PiKNZ1tapidJuP9) to get started. 
