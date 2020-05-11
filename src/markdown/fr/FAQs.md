@@ -1,86 +1,80 @@
-## Frequently Asked Questions FR
+## Foire aux questions
 
-
-**Is there a cost to using Open Call?**
-
-  
-
-There is no fee to use the solutions in Open Call or to seek our help to implement a solution. Even if what you need is not part of the collection, we can advise you and help you build the solution you need.
+**Y a-t-il un coût à l'utilisation d'Appel ouvert ?**
 
   
 
-**Who is Open Call for?**
+Il n'y a pas de frais pour utiliser les solutions d’Appel ouvert ou pour demander notre aide afin de mettre en œuvre une solution. Même si ce dont vous avez besoin ne fait pas partie du catalogue, nous pouvons vous conseiller et vous aider à mettre en place la solution dont vous avez besoin.
 
   
 
--   All levels of government
+**À qui s'adresse Appel ouvert?**
+
+  
+
+-   A tous les niveaux du gouvernement
     
--   Civil servants working on COVID-19 projects who want to create products fast
+-   Aux fonctionnaires qui travaillent sur les projets de la COVID-19 et qui veulent créer des produits rapidement
     
--   Civil servants who are aware of other teams who want to launch a service quickly
+-   Aux fonctionnaires qui connaissent d'autres équipes qui souhaitent lancer un service rapidement
     
--   People with zero coding experience, analysts, communications practitioners, developers, and decision makers
-    
-
-  
-
-**I’m not a coder, what do I do?**
-
-  
-
-Open Call offers turnkey solutions to get products out the door fast. We provide technical assistance and support to bring services and tools to life. Fill out our [support request form](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) to describe the solution from the list that reflects your needs and we’ll help you make it happen!
-
-  
-
-**What if the service I need is not reflected in any of the listings?**
-
-  
-
-If your desired solution is not in the resource list, we can consult with you on how to make it happen. Fill out our [support request form](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and we’ll reach out within two business days to talk to you about how we can help.
-
-  
-
-**What is open source?**
-
-  
-
-Open source refers to software code that’s available for others to view, copy, and modify. It’s code that’s published under an open source license and typically shared on a software collaboration platform like GitHub.Open source saves time and money, by making software easier to reuse and adapt. And by taking advantage of the tools available in the catalogue and adapting them, you’re making it easier for others to do the same.
-
-  
-
-**What kind of help can I get?**
-
-  
-
-Our pro bono tech support is being offered by Code for Canada, a national nonprofit with a network of civic tech developers and designers across the country, including over 40 fellows with direct experience working in digital government.
-
-In addition to helping you scope a solution, we can offer custom coaching sessions, training workshops to help your team get the skills they need to set up a given tool, and even hands-on development or design sprints to get you up and running.
-
-  
-
-**How are the tools in the collection chosen?**
-
-In the spirit of leveraging open source, we have adopted a similar vetting process as used by the New America Pandemic Response Repository. We recognize that when we list projects on this repository, we are giving them a broader platform and reach and are encouraging governments to reuse this work.
-
-We have developed a simple set of criteria for vetting projects prior to listing them on our repository. Projects must be:
-
--   Built, run, or maintained by or on behalf of, or for government.
-    
--   Open source and available to the public.
-    
--   Currently in use to assist in the response efforts against the coronavirus.
+-   Aux personnes n’ayant aucune expérience en programmation, aux analystes, aux praticiens de la communication, aux développeurs et aux décideurs
     
 
-The open source projects catalogued in the Open Call Repository are powering more efficient and effective public sector responses to the coronavirus pandemic. While we have done some vetting of projects on this repository, we have not performed any kind of deep code or product review. We strongly encourage all governments to conduct due diligence and ensure that the technologies are deployed in an accountable and transparent manner. Although the coronavirus demands a quick response, it must not be at the expense of the rights or security of residents.
+  
 
-**I know of a service or tool that fits the Open Call mould, how do I add it?**
-
-If you would like to suggest a new project be added to the collection or if you have general questions about the project, send us an email at  [appelouvert-opencall@cds-snc.ca](https://opencall-appelouvert.alpha.canada.ca/appelouvert-opencall@cds-snc.ca). If you're in government and would like assistance in setting up or adapting any of the tools in Open Call, fill out our 2-minute [support request form](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and we'll be in touch about how we can support you.
+**Je ne suis pas un programmeur, que puis-je faire?**
 
   
 
-**Isn’t it faster for us to build our own tool?**
+Appel ouvert propose des solutions clés en main pour mettre rapidement les produits sur le marché. Nous fournissons une assistance technique et un soutien pour donner vie aux services et aux outils. Remplissez notre formulaire de [demande d'assistance](https://docs.google.com/forms/d/e/1FAIpQLSeLcb9mFT_h93AKABVcz_viqkVVGVvO-NnBByblMED9pbXu5g/viewform) pour décrire la solution de la liste qui correspond à vos besoins et nous vous aiderons à la mettre en place!
 
   
 
-Building custom code solutions takes time. You may or may not have a developer on your team and you’re likely working under tight timelines; think of open source as a solution accelerator. When you use it, you’re three steps ahead of where you would be if you started from scratch. It’s for reasons like this -- and many others -- that the Government of Canada and other governments worldwide tout the benefits of [open source](https://digital.canada.ca/2020/02/24/why-open-source-matters/) and [open government](https://open.canada.ca/en).
+**Que faire si le service dont j'ai besoin ne figure dans aucun des catalogues?**
+
+  
+
+Si la solution que vous souhaitez ne figure pas dans le catalogue des ressources, nous pouvons vous conseiller sur la manière de la mettre en œuvre. Remplissez notre [formulaire de demande](https://docs.google.com/forms/d/e/1FAIpQLSeLcb9mFT_h93AKABVcz_viqkVVGVvO-NnBByblMED9pbXu5g/viewform) d'assistance et nous vous contacterons dans un délai de deux jours ouvrables pour vous expliquer comment nous pouvons vous aider.
+
+  
+
+**Qu’est-ce que le code source ouvert?**
+
+  
+Le terme " code source ouvert " désigne le code d'un logiciel qui est disponible pour que d'autres personnes puissent le consulter, le copier et le modifier. C'est un code publié sous une licence de source ouverte et généralement partagé sur une plateforme de collaboration logicielle comme GitHub. Et en tirant parti des outils disponibles dans le catalogue et en les adaptant, vous permettez plus facilement aux autres de faire de même.
+
+  
+
+**Quelle sorte d’aide puis-je avoir?**
+
+  
+
+Notre soutien technique, fourni bénévolement, est offert par Code for Canada, une organisation nationale à but non lucratif qui dispose d'un réseau de développeurs et de concepteurs de technologies civiques dans tout le pays, dont plus de 40 collaborateurs ayant une expérience directe du gouvernement numérique. En plus de vous aider à élaborer une solution, nous pouvons vous proposer des séances de tutorat personnalisées, des ateliers de formation pour aider votre équipe à acquérir les compétences nécessaires à la mise en place d'un outil donné, et même des sprints de développement ou de conception pratiques pour vous aider à démarrer.
+
+  
+
+**Comment sont choisis les outils du catalogue?**
+
+  
+
+Dans l'esprit de tirer parti du code source ouvert, nous avons adopté un processus de vérification similaire à celui utilisé par le New America Pandemic Response Repository. Nous reconnaissons que lorsque nous répertorions des projets sur ce dépôt, nous leur donnons une plate-forme et une portée plus larges et nous encourageons les gouvernements à réutiliser ce travail. Nous avons élaboré un ensemble de critères simples pour l'examen des projets avant de les inscrire dans notre dépôt. Les projets doivent être :
+
+  
+
+-   Construit, géré ou entretenu par ou au nom du gouvernement ou pour le compte de celui-ci.
+    
+-   En code source ouvert et disponible au grand public.
+    
+-   Actuellement utilisé pour aider aux efforts de lutte contre le coronavirus.
+    
+
+Les projets à code source ouverts répertoriés dans le dépôt d'Appel ouvert permettent au secteur public de réagir plus efficacement à la pandémie de coronavirus. Bien que nous ayons procédé à un certain contrôle des projets sur ce dépôt, nous n'avons pas effectué d'examen approfondi du code ou des produits. Nous encourageons vivement tous les gouvernements à faire preuve de diligence raisonnable et à veiller à ce que les technologies soient déployées de manière responsable et transparente. Bien que le coronavirus exige une réaction rapide, celle-ci ne doit pas se faire au détriment des droits ou de la sécurité des résidents.
+
+**Je connais un service ou un outil qui correspond au modèle d’Appel ouvert, comment puis-je l'ajouter?**
+
+Si vous souhaitez proposer l'ajout d'un nouveau projet au catalogue ou si vous avez des questions d'ordre général sur le projet, envoyez-nous un courriel à [appelouvert-opencall@cds-snc.ca](mailto:appelouvert-opencall@cds-snc.ca). Si vous faites partie d'une administration publique et que vous souhaitez obtenir de l'aide pour mettre en place ou adapter l'un des outils d'Appel ouvert, remplissez notre [formulaire de demande d'assistance](https://docs.google.com/forms/d/e/1FAIpQLSeLcb9mFT_h93AKABVcz_viqkVVGVvO-NnBByblMED9pbXu5g/viewform) qui ne prend que 2 minutes à compléter et nous vous contacterons pour savoir comment nous pouvons vous aider.
+
+**N'est-il pas plus rapide pour nous de construire notre propre outil ?**
+
+La mise en place de solutions de codes personnalisés prend du temps. Vous pouvez avoir ou non un développeur dans votre équipe et vous travaillez probablement dans des délais serrés; considérez le code source ouvert comme un accélérateur de solutions. Lorsque vous l'utilisez, vous avez trois pas d'avance sur ce que vous feriez si vous deviez commencer à partir de zéro. C'est pour des raisons comme celle-ci — et bien d'autres — que le gouvernement du Canada et d'autres gouvernements dans le monde vantent les avantages d'un [code source ouvert](https://numerique.canada.ca/2020/02/24/pourquoi-le-code-source-libre-est-il-important/) et d'un [gouvernement ouvert](https://open.canada.ca/fr).
