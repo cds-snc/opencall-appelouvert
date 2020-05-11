@@ -29,7 +29,3 @@ Si vous n’êtes pas un spécialiste du code, si vous n’arrivez pas à savoir
 Nous serons heureux de vous répondre rapidement.
 
 Appel ouvert répertorie des outils à code source libre gratuits et utilisés par les administrations publiques du Canada – et partout dans le monde – en réponse à la COVID-19. Le service étant géré par le SNC, aucun achat externe n’est requis pour l’activer : il est gratuit pour la fonction publique du Canada, peu importe la province ou le territoire.
-
-## Vous pouvez utiliser Appel ouvert de l'une des deux façons suivantes :
-* En parcourant le catalogue pour trouver la ressource qui convient le mieux à vos besoins et en utilisant celle-ci pour bâtir votre plateforme ou votre service;
-* En nous laissant trouver la ressource qui vous convient après avoir rempli notre [formulaire de demande de soutien](https://forms.gle/APQHqw9cU8ZbXWa68).
