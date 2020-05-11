@@ -38,7 +38,6 @@ export default function Home(props) {
                         color: "black"
                     }}
                 >
-                    <NavButton t={props.t} text="Vetting process" path="how-we-vet-projects"/>
                     <NavButton t={props.t} text="FAQs" path="faqs"/>
                 </BannerBlock>
                 <BannerBlock

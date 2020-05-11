@@ -6,7 +6,6 @@ export default {
     "Open Call": "Appel ouvert",
     "Alpha": "Alpha",
     "Learn more": "Plus d'information",
-    "Vetting process": "Processus de vérification",
     "FAQs": "FAQ",
     "Open Call Catalogue": "Le catalogue Appel ouvert",
     "Live link:": "Lien actif :",

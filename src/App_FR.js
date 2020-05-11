@@ -9,7 +9,6 @@ import HelpingGovernmentsRespond from './markdown/fr/HelpingGovernmentsRespond.m
 import HereToHelp from './markdown/fr/HereToHelp.md';
 import OpenCallCommunity from './markdown/fr/OpenCallCommunity.md';
 import AboutPage from './markdown/fr/AboutPage.md';
-import HowWeVetProjects from './markdown/fr/HowWeVetProjects.md';
 import FAQs from './markdown/fr/FAQs.md';
 
 export default function App(props) {
@@ -20,18 +19,6 @@ export default function App(props) {
                 t={dictionary}
                 markdown={{
                     pageContent: AboutPage,
-                    OpenCallCommunity
-                }}
-            />
-        );    
-    }
-
-    if (props.vetGuidePage){
-        return (
-            <MarkdownPage
-                t={dictionary}
-                markdown={{
-                    pageContent: HowWeVetProjects,
                     OpenCallCommunity
                 }}
             />
