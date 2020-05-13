@@ -1,5 +1,5 @@
 # Aider les administrations à lutter contre la COVID-19
 
-Appel ouvert est un catalogue d’outils à code source libre gratuits et conçus pour aider les équipes de toute administration publique à servir les résidents pendant la pandémie de la COVID-19.
+Les problèmes en commun demandent des solutions communes. Appel ouvert regroupe des outils numériques gratuits qui s’attaquent aux défis courants posés par la COVID-19, et offre aussi un soutien technique gratuit pour vous prêter main-forte.
 
-Vous pouvez télécharger les outils et les utiliser dès aujourd’hui, [ou contacter notre équipe](https://forms.gle/APQHqw9cU8ZbXWa68) et recevoir de l’aide pour débuter.
+Parcourez le catalogue ou remplissez notre [formulaire de demande de soutien](https://forms.gle/APQHqw9cU8ZbXWa68), et nous vous aiderons à répondre aux besoins pressants des gens.
