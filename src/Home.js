@@ -24,7 +24,7 @@ export default function Home(props) {
                         color: "white"
                     }}
                 >
-                    <NavButton t={props.t} text="Learn more" path="about"/>
+                    <NavButton t={props.t} tagClass="aboutPageLink" text="Learn more" path="about"/>
                 </BannerBlock>
                 <Catalog t={props.t}/>
                 <BannerBlock
@@ -38,7 +38,7 @@ export default function Home(props) {
                         color: "black"
                     }}
                 >
-                    <NavButton t={props.t} text="FAQs" path="faqs"/>
+                    <NavButton t={props.t} tagClass="faqPageLink" text="FAQs" path="faqs"/>
                 </BannerBlock>
                 <BannerBlock
                     markdown={props.markdown.OpenCallCommunity}

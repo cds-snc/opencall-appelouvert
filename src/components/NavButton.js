@@ -9,7 +9,7 @@ export default function NavButton(props) {
 
     return (
         <div className="navButton">
-            <a href={getPageLink(props.path)}>
+            <a className={props.tagClass} href={getPageLink(props.path)}>
                 <p>{props.t[props.text]}</p>
             </a>
         </div>    
