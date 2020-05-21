@@ -11,5 +11,7 @@ export default {
     "Live link:": "Lien actif :",
     "Open source code:": "Code source libre :",
     "codeShareAltText": "Pictogramme d’un document avec des accolades et une icône de partage, symbolisant le partage.",
-    "clipboardAltText": "Pictogramme d’un presse-papier avec une liste d’éléments cochés."
+    "clipboardAltText": "Pictogramme d’un presse-papier avec une liste d’éléments cochés.",
+    "Privacy": "Confidentialité",
+    "getPrivacyLink": "https://numerique.canada.ca/transparence/confidentialite/"
 }

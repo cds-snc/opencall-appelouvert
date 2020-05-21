@@ -11,5 +11,7 @@ export default {
     "Live link:": "Live link:",
     "Open source code:": "Open source code:",
     "codeShareAltText": "Document with a curly bracket at the top left and a share icon at the bottom right, representing sharing.",
-    "clipboardAltText": "Clipboard featuring a list of items that are checked off."
+    "clipboardAltText": "Clipboard featuring a list of items that are checked off.",
+    "Privacy": "Privacy",
+    "getPrivacyLink": "https://digital.canada.ca/legal/privacy/"
 }

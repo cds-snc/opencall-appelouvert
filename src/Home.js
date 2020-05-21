@@ -53,6 +53,12 @@ export default function Home(props) {
                     image: gocFooterLogo,
                     altText: "Symbol of the Government of Canada / Symbole du gouvernement du Canada"
                 }}
+                links={[
+                    {
+                        url: props.t.getPrivacyLink,
+                        label: props.t["Privacy"]
+                    }
+                ]}
             />
         </div>
     );
