@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '10.x'
       - run: /bin/bash -c "npm install"
-      - run: /bin/bash -c "npm run build"
+      - run: /bin/bash -c "CI=false npm run build"
       - name: AWS Deploy
         uses: docker://gcr.io/cdssnc/aws:latest
         env:
@@ -23,7 +23,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         with:
           entrypoint: sh
-          args: -l -c "aws s3 sync /github/workspace/build/. s3://${{ secrets.AWS_BUCKET }} --delete --exclude='.git'"
+          args: -l -c "aws s3 sync /github/workspace/build/. s3://${{ secrets.AWS_BUCKET }} --delete  --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers"
       - name: AWS Invalidate
         uses: docker://gcr.io/cdssnc/aws:latest
         env:
