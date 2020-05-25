@@ -14,6 +14,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '10.x'
+      - run: /bin/bash -c "npm install"
       - run: /bin/bash -c "npm run build"
       - name: AWS Deploy
         uses: docker://gcr.io/cdssnc/aws:latest
