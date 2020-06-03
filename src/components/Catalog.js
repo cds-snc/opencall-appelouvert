@@ -47,8 +47,8 @@ export default function Catalog(props) {
                                 </p>
                             </div>
                         )}
-                        {3 % resourceType.resources.length == 1 ?
-                        <div className="resource"></div>
+                        {3 % resourceType.resources.length != 0 ?
+                            <div className="resource"></div>
                         : undefined}
                     </div>
                 </div>
