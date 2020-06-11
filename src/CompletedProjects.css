@@ -1,0 +1,46 @@
+.completedProjectList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    position: relative;
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+.completedProject {
+    width: 35%;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.completedProject img {
+    height: 225px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    border: 2px solid grey;
+    padding: 10px;
+    border-bottom-left-radius: 25px;
+    box-sizing: border-box;
+}
+
+.completedProject p {
+    font-size: 1rem;
+}
+
+.completedProject div a:first-of-type {
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .completedProject {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .completedProject {
+        width: 90%;
+    }
+}

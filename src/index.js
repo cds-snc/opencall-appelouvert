@@ -13,6 +13,7 @@ if (document.documentElement.lang === "fr"){
                 <Route exact path="/" component={App_FR} />
                 <Route path="/about" component={() => <App_FR aboutPage={true}/>}/>
                 <Route path="/faqs" component={() => <App_FR FAQsPage={true}/>}/>
+                <Route path="/completed-projects" component={() => <App_FR completedProjectsPage={true}/>}/>
             </HashRouter>
         </React.StrictMode>,
         document.getElementById('root')
@@ -25,6 +26,7 @@ else {
                 <Route exact path="/" component={App_EN} />
                 <Route path="/about" component={() => <App_EN aboutPage={true}/>}/>
                 <Route path="/faqs" component={() => <App_EN FAQsPage={true}/>}/>
+                <Route path="/completed-projects" component={() => <App_EN completedProjectsPage={true}/>}/>
             </HashRouter>
         </React.StrictMode>,
         document.getElementById('root')

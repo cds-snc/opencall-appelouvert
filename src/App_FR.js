@@ -1,5 +1,6 @@
 import React from 'react';
 import Home from './Home';
+import CompletedProjects from './CompletedProjects';
 import MarkdownPage from './MarkdownPage';
 import dictionary from './dictionaries/fr';
 import './App.css';
@@ -10,6 +11,7 @@ import HereToHelp from './markdown/fr/HereToHelp.md';
 import OpenCallCommunity from './markdown/fr/OpenCallCommunity.md';
 import AboutPage from './markdown/fr/AboutPage.md';
 import FAQs from './markdown/fr/FAQs.md';
+import CompletedProjectsHeader from './markdown/fr/CompletedProjectsHeader.md';
 
 export default function App(props) {
 
@@ -35,6 +37,18 @@ export default function App(props) {
                 }}
             />
         );    
+    }
+
+    if (props.completedProjectsPage){
+        return (
+            <CompletedProjects
+                t={dictionary}
+                markdown={{
+                    CompletedProjectsHeader,
+                    OpenCallCommunity
+                }}
+            />
+        );
     }
 
     return (
