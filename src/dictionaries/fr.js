@@ -7,7 +7,7 @@ export default {
     "Open Call": "Appel ouvert",
     "Alpha": "Alpha",
     "Learn more": "Plus d'information",
-    "Completed projects": "Projets achevés",
+    "Success stories": "Histoires de réussite",
     "FAQs": "FAQ",
     "Open Call Catalogue": "Le catalogue Appel ouvert",
     "Live link:": "Lien actif :",

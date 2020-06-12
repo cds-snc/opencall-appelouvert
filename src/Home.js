@@ -25,7 +25,7 @@ export default function Home(props) {
                     }}
                 >
                     <NavButton t={props.t} tagClass="aboutPageLink" text="Learn more" path="about"/>
-                    <NavButton t={props.t} tagClass="completedProjectsPageLink" text="Completed projects" path="completed-projects"/>
+                    <NavButton t={props.t} tagClass="completedProjectsPageLink" text="Success stories" path="completed-projects"/>
                 </BannerBlock>
                 <Catalog t={props.t}/>
                 <BannerBlock
