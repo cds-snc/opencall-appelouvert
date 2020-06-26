@@ -15,5 +15,8 @@ export default {
     "codeShareAltText": "Pictogramme d’un document avec des accolades et une icône de partage, symbolisant le partage.",
     "clipboardAltText": "Pictogramme d’un presse-papier avec une liste d’éléments cochés.",
     "Privacy": "Confidentialité",
-    "getPrivacyLink": "https://numerique.canada.ca/transparence/confidentialite/"
+    "getPrivacyLink": "https://numerique.canada.ca/transparence/confidentialite/",
+    "browserWarningTitle": "n'est pas compatible avec ce site web",
+    "browserWarningMessage": "Pour tirer le meilleur parti de votre expérience Open Call, veuillez utiliser l'un des navigateurs pris en charge suivants.",
+    "Icons": "Icônes"
 }

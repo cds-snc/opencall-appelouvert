@@ -1,5 +1,7 @@
 import React from 'react';
+import Bowser from "bowser";
 import { GCFooter } from 'gc-tortilla';
+import BrowserWarning from './components/BrowserWarning';
 import Header from './components/Header';
 import BannerBlock from './components/BannerBlock';
 import NavButton from './components/NavButton';
@@ -9,6 +11,12 @@ import clipboard from './images/clipboard.png';
 import gocFooterLogo from './images/gocFooterLogo.png';
 
 export default function Home(props) {
+
+    const browser = Bowser.getParser(window.navigator.userAgent);
+
+    if (browser.getBrowserName() == "Internet Explorer"){
+        return <BrowserWarning t={props.t}/>
+    }
 
     return (
         <div className="home">
