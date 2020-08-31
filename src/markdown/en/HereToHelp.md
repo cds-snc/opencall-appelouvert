@@ -1,5 +1,5 @@
-# Pro bono tech support for your team
+# Contribute to Open Call
 
-Not a coder? No problem! Not sure what kind of resource you need, which listing is best for you, or simply need more support? Open Call can provide coaching, workshops or even hands-on development and design sprints to help you launch or improve a service. 
+Has your team built a tool that other governments could use? Have you used open source software in your COVID-19 efforts? 
 
-Just fill out our [support request form](https://forms.gle/Q7PiKNZ1tapidJuP9) to get started. 
+[Click here to share the tool with our team](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and we might add it to the Open Call catalogue.
