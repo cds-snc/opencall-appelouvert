@@ -1,5 +1,5 @@
-# Soutien technique gratuit pour votre équipe
+# Contribuez à Appel ouvert
 
-Vous êtes loin d’être spécialiste du code? Pas de problème! Vous ne savez pas quelle ressource s’applique à vos besoins, ou vous avez simplement besoin d’aide? Appel ouvert vous propose du coaching, des ateliers, voire des sprints pratiques de développement et de conception pour vous aider à lancer ou à améliorer un service. 
+Votre équipe a-t-elle développé un outil que les autres administrations peuvent utiliser? Avez-vous utilisé un logiciel libre en réponse à la COVID-19?
 
-Vous n’avez qu’à remplir notre [formulaire de demande de soutien](https://forms.gle/APQHqw9cU8ZbXWa68) pour commencer. 
+[Faites connaître l’outil à notre équipe](https://docs.google.com/forms/d/e/1FAIpQLSeLcb9mFT_h93AKABVcz_viqkVVGVvO-NnBByblMED9pbXu5g/viewform), et nous allons peut-être l’ajouter au catalogue Appel ouvert.
