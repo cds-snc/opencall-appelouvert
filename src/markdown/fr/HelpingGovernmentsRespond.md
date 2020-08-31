@@ -1,5 +1,7 @@
 # Aider les administrations à lutter contre la COVID-19
 
-Les problèmes en commun demandent des solutions communes. Appel ouvert regroupe des outils numériques gratuits qui s’attaquent aux défis courants posés par la COVID-19, et offre aussi un soutien technique gratuit pour vous prêter main-forte.
+Appel ouvert est un catalogue évolutif d’outils gratuits et faciles à (ré)utiliser pour relever les défis courants liés à la COVID-19.
 
-Parcourez le catalogue ou remplissez notre [formulaire de demande de soutien](https://forms.gle/APQHqw9cU8ZbXWa68), et nous vous aiderons à répondre aux besoins pressants des gens.
+Parcourez le catalogue ci-dessous pour découvrir comment mettre en place des solutions rapidement.
+
+Si vous connaissez un outil que nous devrions ajouter au catalogue, [faites-le savoir à notre équipe](https://docs.google.com/forms/d/e/1FAIpQLSeLcb9mFT_h93AKABVcz_viqkVVGVvO-NnBByblMED9pbXu5g/viewform).
