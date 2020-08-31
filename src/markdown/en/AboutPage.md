@@ -1,4 +1,4 @@
-## About Open Call
+# About Open Call
 
 ## Building reusable tools for communities, together
 Managers, product owners and analysts at all levels of government need reliable self-assessment tools, clear data visualizations, or contact tracing capabilities during COVID-19, but we need not start from scratch. Open Call can help you get services and information to constituents faster.
