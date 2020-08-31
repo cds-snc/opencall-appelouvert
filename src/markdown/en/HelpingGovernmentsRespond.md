@@ -1,5 +1,7 @@
 # Helping governments respond to COVID-19
 
-Shared problems need shared solutions. Open Call includes free digital tools to address common COVID-19 challenges and free technical support for government teams. 
+Open Call is a living catalogue of free, easy to (re)use tools that address common challenges related to COVID-19.
 
-Browse the catalogue, or fill out our [support request form](https://forms.gle/Q7PiKNZ1tapidJuP9), and we'll help you move at the speed of need. 
+Check out the catalogue below and discover ways to deliver solutions faster.  
+
+Know a tool that we should include in the catalogue? [Click here to let our team know](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform).
