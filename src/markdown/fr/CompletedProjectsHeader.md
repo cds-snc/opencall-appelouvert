@@ -1,5 +1,5 @@
-# Aller à la vitesse des besoins.
+# Répondre aux besoins dès qu’ils surgissent
 
-Voici quelques exemples du travail que Appel ouvert effectue avec les gouvernements à travers le Canada. Ces projets, ainsi que tous les outils de notre catalogue, peuvent être reproduits pour répondre aux besoins spécifiques de votre ministère.
+Le code source libre permet aux équipes gouvernementales de rapidement créer, partager ou réutiliser des outils numériques.
 
-Vous souhaitez savoir comment Open Call peut aider votre équipe ? [Contactez-nous](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform).
+Les exemples ci-dessous montrent comment certains ministères ont réussi à tirer profit des outils du catalogue Appel ouvert ou ont apporté leurs propres solutions à la communauté.
