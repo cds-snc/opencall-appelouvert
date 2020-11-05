@@ -1,4 +1,4 @@
-## About Open Call
+# About Open Call
 
 ## Building reusable tools for communities, together
 Managers, product owners and analysts at all levels of government need reliable self-assessment tools, clear data visualizations, or contact tracing capabilities during COVID-19, but we need not start from scratch. Open Call can help you get services and information to constituents faster.
@@ -11,14 +11,7 @@ Governments across Canada are working on the same problems: how to keep people i
 ## Trusted services already being used by other governments
 Our vetting process ensures our collection only features live products actively in use by other jurisdictions. 
 
-## What you can do with Open Call
-Search the catalogue to find the resource that best suits your needs and start using it to build your desired platform or service, or fill out our [support request form](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and let us match your need with the right resource.
+## Contribute to Open Call
+Has your team built a tool that other governments could use? Have you used open source software in your COVID-19 efforts?
 
-The Open Call catalogue is growing every day, and contains tools to help you:
-* Communicate securely with residents during, and after, the pandemic
-* Create data visualizations to show cases, testing rates and case locations
-* Help your constituents take a self-assessment for symptoms of COVID-19 and take pressure off your local healthcare system
-* Launch a chatbot to answer common COVID-19 questions
-* Release a contact tracing app for your community
-* Recruit volunteers with digital or IT skills to help address COVID-19-related issues
-
+[Click here to share the tool with our team](https://docs.google.com/forms/d/e/1FAIpQLSdWbl_vdlE1_eIVuZk3mgG46ulp90o-m0kN8YgqjvDuc59GIw/viewform) and we might add it to the Open Call catalogue.
