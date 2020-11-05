@@ -54,6 +54,7 @@ export default function App(props) {
     return (
         <Home
             t={dictionary}
+            catalog={props.catalog}
             markdown={{
                 HelpingGovernmentsRespond,
                 HereToHelp,

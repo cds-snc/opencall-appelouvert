@@ -1,15 +1,12 @@
 import React from 'react';
+import {getPageLink} from '../helpers';
 import './NavButton.css';
 
 export default function NavButton(props) {
 
-    function getPageLink(path) {
-        return props.t.getLocale != "en" ? `/${props.t.getLocale}/#/${path}` : `/#/${path}`;
-    }
-
     return (
         <div className="navButton">
-            <a className={props.tagClass} href={getPageLink(props.path)}>
+            <a className={props.tagClass} href={getPageLink(props.t.getLocale, props.path)}>
                 <p>{props.t[props.text]}</p>
             </a>
         </div>    

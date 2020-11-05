@@ -1,0 +1,21 @@
+.home .title {
+    text-align: center;
+}
+
+.home .catalogTabs {
+    display: flex;
+    justify-content: center;
+}
+
+.home .catalogTabs a {
+    cursor: pointer;
+}
+
+.home .catalogTabs a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.home .catalogTabs a:not(:last-child){
+    margin-right: 50px;
+}

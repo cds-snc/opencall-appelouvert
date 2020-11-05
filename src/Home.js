@@ -6,9 +6,12 @@ import Header from './components/Header';
 import BannerBlock from './components/BannerBlock';
 import NavButton from './components/NavButton';
 import Catalog from './components/Catalog';
+import { getPageLink } from './helpers';
+import catalogs from './dictionaries/catalogs';
 import codeShare from './images/codeShare.png';
 import clipboard from './images/clipboard.png';
 import gocFooterLogo from './images/gocFooterLogo.png';
+import './Home.css';
 
 export default function Home(props) {
 
@@ -17,6 +20,8 @@ export default function Home(props) {
     if (browser.getBrowserName() == "Internet Explorer"){
         return <BrowserWarning t={props.t}/>
     }
+
+    console.log(props);
 
     return (
         <div className="home">
@@ -35,7 +40,12 @@ export default function Home(props) {
                     <NavButton t={props.t} tagClass="aboutPageLink" text="Learn more" path="about"/>
                     <NavButton t={props.t} tagClass="completedProjectsPageLink" text="Success stories" path="completed-projects"/>
                 </BannerBlock>
-                <Catalog t={props.t}/>
+                <h2 className="title">{props.t["Open Call Catalogue"]}</h2>
+                <div className="catalogTabs">
+                    <a className={props.catalog === catalogs.openSourceTools ? "active" : undefined} href={getPageLink(props.t.getLocale, "")}>{props.t["Open Source Tools"]}</a>
+                    <a className={props.catalog === catalogs.digitalPolicies ? "active" : undefined} href={getPageLink(props.t.getLocale, "digital-policies")}>{props.t["Digital Policies"]}</a>
+                </div>
+                <Catalog t={props.t} catalog={props.catalog}/>
                 <BannerBlock
                     markdown={props.markdown.HereToHelp}
                     image={{
