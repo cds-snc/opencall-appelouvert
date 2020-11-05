@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1654b0655713497fe839cbddacf2730d",
+    "revision": "25f83d20bcad4a06378e1eca5165edb2",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.e50de653.chunk.css"
   },
   {
-    "revision": "5c5d9c97b2f8e5f4341a",
+    "revision": "32de7e2b4dc859fdd31c",
     "url": "/static/css/main.66549350.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e94fefc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c5d9c97b2f8e5f4341a",
-    "url": "/static/js/main.50d839dd.chunk.js"
+    "revision": "32de7e2b4dc859fdd31c",
+    "url": "/static/js/main.b0b11767.chunk.js"
   },
   {
     "revision": "4d8f094d9acecf79b54a",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FAQs.7f037053.md"
   },
   {
-    "revision": "5970438c867568c69b1ec9b39a3920b4",
-    "url": "/static/media/HelpingGovernmentsRespond.5970438c.md"
+    "revision": "c255f88042b30e86495e327b60caacf9",
+    "url": "/static/media/HelpingGovernmentsRespond.c255f880.md"
   },
   {
-    "revision": "e60f625998bc3326ec94d615e78f935b",
-    "url": "/static/media/HelpingGovernmentsRespond.e60f6259.md"
+    "revision": "dbb3f912fd8b9d3b76006ce2c43f7ebe",
+    "url": "/static/media/HelpingGovernmentsRespond.dbb3f912.md"
   },
   {
     "revision": "32fcd23113e7b520a0c869e60ddac12a",
